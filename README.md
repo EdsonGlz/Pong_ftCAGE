@@ -1,11 +1,11 @@
 # Proyecto Final Diseño de Software - Pong
 
-Proyecto final qdesarrolado por
+Proyecto final desarrolado por:
 
-- Edson Alberto Gonzalez Espinoza
+- Edson Alberto González Espinoza
 - Juan Pablo García Rosales
 
-## Descripcion
+## Descripción
 
 Como proyecto final decidimos crear un juego de Pong con las mejores practicas de programación como lo vimos en el curso de Diseño de Software
 
@@ -17,7 +17,7 @@ El proyecto contiene los siguientes patrones de diseño
 
 ## Aspectos a mejorar en un futuro
 
-Debido a ciertas limitaciones de tiempo hay algunas implementaciones que nos hubiera gustado hacer sin embargo quedaron pendientes, Por ejemplo:
+Debido a ciertas limitaciones de tiempo, hay algunas implementaciones que nos hubiera gustado hacer sin embargo quedaron pendientes, por ejemplo:
 
 - Lograr que el juego se pueda jugar en linea usando WebSockets
 - Implementar colisiones de pygame en lugar de las calculadas matematicamente
